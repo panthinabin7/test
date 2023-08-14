@@ -1,0 +1,5 @@
+{{#user}
+Name: Nabin Panth
+Skills: HTML, CSS, JS, ReactJs, strapi(Headless Cms),tailwindCss, TypeScript(basics),NextJs(basics)
+Email: panthinabin7@gmail.com
+{{/user}}
